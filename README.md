@@ -9,11 +9,15 @@ Tutorial que ensina a criar um controle de plataformas 2D
 
 As pastas estão divididas em Aulas e AulasExtra. As aulas extras são assuntos importantes mas não são totalmente necessárias, enquanto que as aulas são a parte importante deste repositório
 
+## Servidor do Discord
+
+Dúvidas? Procure ajuda no nosso Discord: https://discord.gg/kEjJ8ax
+
 ## Como Aproveitar este Código
 
 ## 1. Baixe a última versão do Git para seu sistema operacional em:
 
-    https://git-scm.com/downloads
+https://git-scm.com/downloads
 
 
 ### 2. Após a instalação, você tem algumas opções dependendo do que pretende fazer: Fork ou Clone
